@@ -41,6 +41,32 @@ O banco de dados SQLite foi escolhido por ser leve, simples de configurar e sufi
 
 ## Status do Projeto
 
-Projeto em fase inicial.
+Projeto finalizado e funcional.
 
-Neste Checkpoint 01, foi realizada a definição da aplicação, seus objetivos principais e as tecnologias que serão utilizadas no desenvolvimento.
+A aplicação conta com um sistema CRUD completo para gerenciamento de produtos fabricados por impressão 3D, permitindo cadastrar, visualizar, editar e excluir produtos com persistência de dados utilizando SQLite.
+
+O sistema possui integração entre front-end e back-end, utilizando Node.js, Express e JavaScript, além de interface web responsiva desenvolvida com HTML e CSS.
+
+Também foram aplicadas boas práticas de organização de código, separação de responsabilidades e integração com API REST.
+
+---
+
+## Ambiente de Desenvolvimento
+
+O projeto foi desenvolvido utilizando:
+
+- Visual Studio Code;
+- Node.js;
+- Git e GitHub;
+- Navegador Google Chrome para testes da aplicação;
+- Thunder Client para testes da API REST.
+
+---
+
+## Como Executar a Aplicação
+
+### 1. Clonar o repositório
+
+```bash
+git clone https://github.com/gabesvm/sistema-produtos-3d.git
+```
